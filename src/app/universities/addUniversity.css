@@ -1,0 +1,8 @@
+.cardChange {
+   width: 70%;
+  }
+  
+.uniqueName th,
+td {
+  border: 1px solid rgba(224, 224, 224, 1);
+}

@@ -1,0 +1,41 @@
+.Submit_container {
+  height: 70%;
+  padding-left: 80px;
+}
+.Information {
+  width: fit-content;
+}
+.Container {
+  width: fit-content;
+}
+.TextFeilds {
+  width: 218%;
+}
+.Know_about_us_heading {
+  width: fit-content;
+}
+.Know_about_us_heading_Feilds {
+  display: flex;
+}
+.Other_Please_specify {
+  width: fit-content;
+}
+.TextFeilds1 {
+  width: 55%;
+}
+.application {
+  width: fit-content;
+  padding: 0px 80px;
+}
+.Button_Submit {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.Personal_Detail{
+    width: "inherit"
+}
+.Others_Specify{
+    width: fit-content;
+}

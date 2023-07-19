@@ -1,0 +1,15 @@
+.main-container-enquiry-list {
+  width: 90%;
+
+  margin: auto;
+  margin-top: 2%;
+
+  padding-bottom: 2%;
+}
+.loader-container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height:100vh;
+  background-color: rgb(182, 179, 179);
+}

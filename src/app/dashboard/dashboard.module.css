@@ -1,0 +1,51 @@
+
+
+
+/* bg - icon */
+
+.bgIcon{
+position: absolute;
+width: 64px;
+height: 64px;
+left: 16px;
+top: 0px;
+}
+
+/* Gradients/Red */
+grRed{
+background: linear-gradient(180deg, #E93B77 0%, #DA1F63 100%);
+border-radius: 12px;
+}
+
+.title{
+    position: absolute;
+width: 86px;
+height: 20px;
+right: 15px;
+top: 30px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 140%;
+/* identical to box height, or 20px */
+text-align: right;
+color: #7B809A;
+}
+
+.valueCard{
+position: absolute;
+width: 62px;
+height: 34px;
+right: 14px;
+top: 50px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 140%;
+/* identical to box height, or 34px */
+text-align: right;
+/* Linear/Dark Blue */
+color: #344767;
+}

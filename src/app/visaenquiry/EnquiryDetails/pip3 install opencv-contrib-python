@@ -1,0 +1,7 @@
+pip3 install opencv-contrib-python
+pip3 install numpy
+pip3 install pandas
+pip3 install Pillow
+pip3 install pytest-shutil
+pip3 install python-csv
+pip3 install yagmail

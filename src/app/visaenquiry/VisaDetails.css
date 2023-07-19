@@ -1,0 +1,129 @@
+.Test_Taken {
+  display: flex;
+  width: -webkit-fill-available;
+  height: 80%;
+  flex: 1;
+  padding-left: 80px;
+  flex-direction: column;
+  padding-right: 80px;
+}
+
+.IELTS {
+  width: -webkit-fill-available;
+}
+.PTE {
+  margin-left: 20px;
+  width: -webkit-fill-available;
+}
+.IELTS_checkbox {
+  display: flex;
+}
+.Test {
+  width: fit-content;
+  font-size: 18px;
+}
+
+.Reading_Writing {
+  display: flex;
+  justify-content: space-around;
+}
+.Reading_Writing_Feilds {
+  display: flex;
+  justify-content: space-around;
+  padding: 5px 5px;
+  gap: 10px;
+}
+.Overall_Score {
+  width: fit-content;
+}
+.TextFeilds {
+  padding: 5px 5px;
+}
+.PTE_Checkbox {
+  display: flex;
+  margin-top: 52px;
+}
+.IntendedFeildofStudy {
+  display: flex;
+
+  gap: 15px;
+}
+.Intended {
+  width: -webkit-fill-available;
+}
+.Instituteofinterest {
+  width: -webkit-fill-available;
+}
+.Study {
+  width: fit-content;
+}
+.Institute {
+  width: fit-content;
+}
+.Funds_Feild {
+  width: fit-content;
+}
+.Liquid_Property_Annual {
+  display: flex;
+
+  gap: 10px;
+}
+.Liquid {
+  flex: 1;
+  width: fit-content;
+}
+.Property {
+  flex: 1;
+  width: fit-content;
+}
+.Annual {
+  flex: 1;
+  width: fit-content;
+}
+
+.Education_Loan {
+  height: -webkit-fill-available;
+  width: -webkit-fill-available;
+  margin-top: 20px;
+  display: flex;
+  gap: 10px;
+}
+.loan {
+  flex: 1;
+
+  width: fit-content;
+}
+.visa {
+  flex: 1;
+}
+.relatives {
+  flex: 1;
+}
+.Need_Loan {
+  width: fit-content;
+}
+.Checkbox {
+  display: flex;
+}
+.Loan_Amount {
+  width: fit-content;
+  margin-top: 20px;
+}
+.TextFeild1 {
+  gap: 20px;
+  margin-top: 10px;
+}
+.Button_Visa_Details {
+  margin-top: 10px;
+  padding: 20px;
+}
+.finance {
+  width: fit-content;
+  padding: 0px 73px;
+}
+.Button_visa_Details {
+  display: flex;
+  padding: 35px;
+  gap: 10px;
+  justify-content: center;
+}

@@ -1,0 +1,24 @@
+.main-container-enquiry-details {
+    height: 100%;
+    padding: 50px;
+    padding-top: 20px;
+}
+
+.grid-container-enquiry-details {
+    padding: 50px;
+}
+
+.Stepper {
+    margin-top:20px;
+}
+.imageHeading{
+    margin-left:15px
+}
+.imageStyle{
+    width:100%;
+    padding-top: 10px;
+}
+
+p {
+    margin-bottom: 0;
+}

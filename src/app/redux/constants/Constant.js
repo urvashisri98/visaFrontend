@@ -1,0 +1,8 @@
+export const PERSONAL_DETAIL="PERSONAL_DETAIL";
+export const EDUCATION_WORK="EDUCATION_WORK";
+export const VISA_DETAIL="VISA_DETAIL";
+export const SUBMIT_APPLICATION="SUBMIT_APPLICATION";
+export const UPLOAD_IMAGES="UPLOAD_IMAGES";
+export const LOGIN="LOGIN";
+export const LOGOUT="LOGOUT";
+export const USERINFO="USERINFO";

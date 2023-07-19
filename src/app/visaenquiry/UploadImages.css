@@ -1,0 +1,23 @@
+.Images_Upload{
+    width:-webkit-fill-available;
+    /* width:"100px";height:"80px"; */
+}
+.adharfront{
+    width: fit-content;
+    font-size: 14px;
+}
+.camera_css{
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+}
+.Button_function{
+    margin-top: 20px;
+}
+.Input_box{
+    margin-top: 15px;
+}
+.widthContent{
+    width:fit-content;
+    padding-top: 6px;
+}

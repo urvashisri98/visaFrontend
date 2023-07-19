@@ -1,0 +1,117 @@
+/* Position and sizing of burger button */
+.bm-burger-button {
+    position: fixed;
+    width: 26px;
+    height: 20px;
+    left: 36px;
+    top: 16px;
+  }
+  
+  /* Color/shape of burger icon bars */
+  .bm-burger-bars {
+    background: #ffffff;
+  }
+  
+  /* Color/shape of burger icon bars on hover*/
+  .bm-burger-bars-hover {
+    background: #2D334C;
+  }
+  
+  /* Position and sizing of clickable cross button */
+  .bm-cross-button {
+    height: 24px;
+    width: 24px;
+  }
+  
+  /* Color/shape of close button cross */
+  .bm-cross {
+    background: #bdc3c7;
+  }
+  
+  /*
+  Sidebar wrapper styles
+  Note: Beware of modifying this element as it can break the animations - you should not need to touch it in most cases
+  */
+  .bm-menu-wrap {
+    position: fixed;
+    height: 100%;
+  }
+  
+  /* General sidebar styles */
+  .bm-menu {
+    background: #ffffff;
+    padding: 2.5em 1.5em 0;
+    font-size: 1.15em;
+  }
+  
+  /* Morph shape necessary with bubble or elastic */
+  .bm-morph-shape {
+    fill: #373a47;
+  }
+  
+  /* Wrapper for item list */
+  .bm-item-list {
+    color: #b8b7ad;
+    padding: 0.8em;
+  }
+  
+  .bm-item {
+    display: inline-block;
+  
+    color: #2D334C;
+    margin-bottom: 10px;
+    text-align: left;
+    text-decoration: none;
+    transition: color 0.2s;
+  }
+  
+  .bm-item:hover {
+    color: #FDA300;
+  }
+ .circle {
+    position: absolute;
+left: 2.34%;
+right: 92.39%;
+top: 11.74%;
+bottom: 76.73%;
+
+    height: 200px;
+ }
+
+ .logo{
+    height: 35px;
+    /* margin-top: -47px; */
+ }
+ .avtarWrap{
+    width: 50%;
+ }
+ .Dashboard{
+   padding-left: 15px;
+   color:linear-gradient(180deg, #3081E8 0%, #054EAA 100%);
+   font-weight: 700;
+   font-size: 16px;
+  }
+  .Sidebar_menu{
+    background: linear-gradient(180deg, #3081E8 0%, #054EAA 100%);
+   /* margin-top: 1px; */
+  height:100vh;
+  }
+  .Logo_Icon{
+   /* background-color: #1e88e5; */
+   height: 64px;
+   display:flex;
+   border-radius: 10px;
+ }
+ .Icon{
+  padding: 17px;
+ }
+
+ .css-h4y409-MuiList-root{
+  padding-top: 0px !important;
+ }
+ /* .Visa_project{
+  padding: 15px;
+  font-size: 25px;
+  font-weight: 600;
+  color: white;
+ } */

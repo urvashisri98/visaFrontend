@@ -1,0 +1,75 @@
+
+.Login_page{
+    display: flex;
+}
+.Login_image{
+    /* background-color: aqua; */
+width: 50%;
+height:480px;
+
+}
+.Image_Size{
+    /* background-color: black; */
+    margin: 15px 0px 25px 70px;
+    width: 73%;
+    height: 200px;
+ 
+}
+.App_For_Everything{
+font-size: 20px;
+font-weight: 600;
+}
+.Login_Input_Feilds{
+   background-color:  rgba(238, 239, 241, 0.5);
+border-radius: 0px 16px 16px 0px;
+width: 50%;
+height:500px;
+}
+.VerifyEmail_Input_Feild{
+    /* background-color: white; */
+    width: 70%;
+    /* height: 80px; */
+    margin: 20px 0px 26px 75px;
+    border-radius: 16px;
+    padding: 10;
+    display: flex;
+}
+
+.Email_button{
+    background-color: black;
+    height: 58px;
+    border-radius: 16px;
+   cursor: pointer;
+    width: 70%;
+    margin-left: 77px;
+    margin-top: 50px;
+    
+}
+.Email_button:hover{
+    background-color: orange;
+    
+   
+}
+.Button{
+    color: orange;
+    font-size: 28px;
+    
+    padding-top: 10px;
+}
+.Button:hover{
+    color: black;
+    /* font-size: 28px;
+    
+    padding-top: 10px; */
+}
+.home-container{
+    /* background-image: url('./Image/image1.png'); */
+    background-repeat: no-repeat;
+    height: 100%;
+    background-size: cover;
+    margin: 0px;
+    padding:170px;
+}
+.Email{
+    padding: 15px;
+}

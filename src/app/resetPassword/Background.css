@@ -1,0 +1,7 @@
+.reset-containers{
+    background-image: url('../static/images/image1.png');
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-size: cover;
+ 
+}

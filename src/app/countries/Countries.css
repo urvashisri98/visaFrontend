@@ -1,0 +1,33 @@
+/* .Visa_enquiry_Container{
+} */
+.Table_Container{
+    padding-left: 85px;
+    padding-right: 85px;
+    padding-top: 20px;
+}
+.Add_Button{
+    /* background-color: aqua; */
+    margin-left: 85px;
+    margin-right: 85px;
+    text-align: end;
+}
+.box{
+    background-color: aqua;
+}
+
+.country-select-dropdown {
+    margin: 30px !important;
+    width: 100%;
+    height: 30px;
+}
+
+.country-select {
+    z-index: 100;
+}
+
+/* .country-select input {
+    width: 230px;
+    height: 50px;
+    font-size: 15px;
+    padding-left: 10px;
+} */

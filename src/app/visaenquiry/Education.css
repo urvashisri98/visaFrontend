@@ -1,0 +1,248 @@
+.Education {
+  display: flex;
+
+  flex: 1;
+  padding: 0px 60px;
+
+  flex-direction: column;
+}
+.Year {
+  flex: 1;
+  padding: 0px 10px;
+}
+.Qualification {
+  flex: 2;
+  padding: 0px 10px;
+}
+.Percentage {
+  padding: 0px 10px;
+  flex: 1;
+}
+.Institute_Name {
+  padding: 0px 10px;
+  flex: 2;
+}
+.Board_University {
+  flex: 2;
+  padding: 0px 10px;
+}
+.Regular {
+  flex: 1;
+  padding: 0px 10px;
+}
+.Education_heading {
+  display: flex;
+}
+.Education_Input {
+  display: flex;
+  margin-left: 10px;
+  padding-bottom: 10px;
+}
+.Add_More_Option {
+  width: fit-content;
+  margin-top: 20px;
+}
+.Button_Container {
+  display: flex;
+  gap: 20px;
+  padding-left: 20px;
+}
+.Year1 {
+  flex: 1;
+  padding: 0px 10px;
+}
+.Month {
+  flex: 1;
+  padding: 0px 10px;
+}
+.Employer {
+  padding: 0px 10px;
+  flex: 2;
+}
+.Designation {
+  padding: 0px 10px;
+  flex: 1;
+}
+.Industry_Type {
+  flex: 2;
+  padding: 0px 10px;
+}
+.Part_Time {
+  flex: 1;
+  padding: 0px 10px;
+}
+.Education_heading {
+  display: flex;
+}
+.Education_Input {
+  display: flex;
+  margin-left: 10px;
+}
+.Add_More_Option {
+  width: fit-content;
+  margin-top: 20px;
+}
+.Button_Container1 {
+  display: flex;
+  gap: 20px;
+  padding-left: 20px;
+}
+.Education_heading1 {
+  display: flex;
+  flex: 1;
+}
+.Education2 {
+  display: flex;
+
+  padding: 0px 60px;
+
+  flex-direction: column;
+}
+.IELTS_PTE {
+  display: flex;
+
+  width: -webkit-fill-available;
+  height: 50%;
+  padding: 20px;
+}
+.IELTS {
+  width: -webkit-fill-available;
+}
+.PTE {
+  margin-left: 20px;
+  width: -webkit-fill-available;
+  margin-top: 5px;
+}
+.IELTS_checkbox {
+  display: flex;
+}
+.Test {
+  width: fit-content;
+  font-size: 18px;
+  font-weight: 600;
+}
+.Checkbox_IELTS {
+  display: flex;
+  width: fit-content;
+
+  margin-left: -12px;
+}
+.Reading_Writing {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 12px;
+}
+.Reading_Writing_Feild {
+  display: flex;
+  flex: 1;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+.Overall_Score1 {
+  /* width: fit-content; */
+  margin: 0px;
+}
+.Score {
+  /* width: fit-content; */
+  margin: 0px;
+}
+.TextFeilds {
+  padding: 5px 5px;
+}
+.PTE_Checkbox {
+  display: flex;
+  margin-top: 57px;
+  margin-left: -12px;
+}
+.IntendedFeildofStudy {
+  display: flex;
+
+  gap: 15px;
+
+  padding: 20px;
+}
+.Intended {
+  width: -webkit-fill-available;
+}
+.Instituteofinterest {
+  width: -webkit-fill-available;
+}
+.Study {
+  width: fit-content;
+  font-size: 14px;
+}
+.Institute {
+  width: fit-content;
+  font-size: 14px;
+}
+.Button_Visa {
+  padding-top: 10px;
+}
+
+.Reading {
+  display: flex;
+}
+.Writing {
+  display: flex;
+}
+.Speaking {
+  display: flex;
+}
+.Listening {
+  display: flex;
+}
+.year {
+  width: fit-content;
+
+  margin-left: 5px;
+}
+.qualification {
+  width: fit-content;
+
+  /* margin-left: 5px; */
+}
+.percentage {
+  width: fit-content;
+}
+.institue {
+  width: fit-content;
+}
+.university {
+  width: fit-content;
+}
+.regular {
+  width: fit-content;
+}
+.year1 {
+  width: fit-content;
+
+  margin-left: 5px;
+}
+.month {
+  width: fit-content;
+
+  margin-left: 5px;
+}
+.employer {
+  width: fit-content;
+
+  margin-left: 5px;
+}
+.designation {
+  width: fit-content;
+}
+.industry {
+  width: fit-content;
+}
+.parttime {
+  width: fit-content;
+}
+.Educational {
+  width: fit-content;
+  padding: 0px 73px;
+}
+.Button {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+}
